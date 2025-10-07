@@ -17,11 +17,11 @@ Branches in this repo (with details):
     b342b35 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T17:15:22Z | Merge branch 'lab7'
     3c27b79 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:14:33Z | Auto-update branch-info.txt
 - main
-  SHA: 216151292c59ff43c9ffd2401f981d97dcf1deed
-  Commits: 17
+  SHA: bb7575165f7899e026c6620c40dfc69fb9e59e79
+  Commits: 22
   Recent commits:
+    bb75751 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:02:04Z | Merge branch 'main' of github.com:mpadot/lab7_Mock_Testing
+    bfd1dc9 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:01:17Z | Auto-update branch-info.txt
+    181a67d | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:00:16Z | Resolve merge conflict in test_recognizer_result.py
+    05f1871 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T17:53:56Z | fixed it
     2161512 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:42:15Z | Auto-update branch-info.txt
-    5f3db43 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T17:41:48Z | fix recognizer_result issues
-    9a0feb3 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T17:37:00Z | fixed it i hope
-    88f8dcd | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:37:26Z | Auto-update branch-info.txt
-    6979d1e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:32:12Z | Auto-update branch-info.txt
