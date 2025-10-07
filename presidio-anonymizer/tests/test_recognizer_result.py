@@ -293,12 +293,8 @@ def test_logger(mock_logger):
     end = 5
 
     
-    result = create_recognizer_result(
-        entity_type=entity_type,
-        score=score,
-        start=start,
-        end=end
-    )
+    result = create_recognizer_result(entity_type, score, start, end)
+    
 
     
     mock_logger.info.assert_called_once()
@@ -307,10 +303,10 @@ def test_logger(mock_logger):
     log_message = mock_logger.info.call_args[0][0]
 
    
-    assert entity_type in log_message
-    assert str(start) in log_message
-    assert str(end) in log_message
-    assert f"{score:.2f}" in log_message
+    assert f"entity_type='{entity_type}'" in log_message
+    assert f"start={start}" in log_message
+    assert f"end={end}" in log_message
+    assert f"score={score:.2f}" in log_message
 
     
 
