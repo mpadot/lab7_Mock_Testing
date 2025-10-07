@@ -8,15 +8,6 @@ Branches in this repo (with details):
     8d99fff | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T01:53:24Z | Auto-update branch-info.txt
     d36c70f | Author: Miles Padot <155395178+mpadot@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-06T21:53:10-04:00 | Initial commit
 - lab7
-  SHA: 5962f11fddabeb62610094f8416fcf03bd2032ff
-  Commits: 27
-  Recent commits:
-    5962f11 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:25:36Z | fixed
-    f011023 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:22:48Z | Add debug assert to test_given_conflict_input_then_merged_correctly
-    3196465 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:13:10Z | Auto-update branch-info.txt
-    d2c641f | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:12:48Z | fixed assert logger.info
-    586654f | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:02:49Z | Auto-update branch-info.txt
-- main
   SHA: b708645af4f28f457d4880157ee28de01f690a25
   Commits: 31
   Recent commits:
@@ -25,3 +16,12 @@ Branches in this repo (with details):
     bea27e3 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:25:59Z | Auto-update branch-info.txt
     5962f11 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:25:36Z | fixed
     5d6de31 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:23:05Z | Auto-update branch-info.txt
+- main
+  SHA: 01dd54d4fd5d6e3fca7c0789aa9dbffeabf499b3
+  Commits: 32
+  Recent commits:
+    01dd54d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:32:05Z | Auto-update branch-info.txt
+    b708645 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:31:33Z | Merge branch 'lab7'
+    6f4e6f3 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:31:08Z | fixed task 1
+    bea27e3 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:25:59Z | Auto-update branch-info.txt
+    5962f11 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:25:36Z | fixed
