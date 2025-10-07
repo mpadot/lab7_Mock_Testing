@@ -8,20 +8,20 @@ Branches in this repo (with details):
     8d99fff | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T01:53:24Z | Auto-update branch-info.txt
     d36c70f | Author: Miles Padot <155395178+mpadot@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-06T21:53:10-04:00 | Initial commit
 - lab7
-  SHA: d2c641fe3e001aa83753df102858f85f13779791
-  Commits: 13
+  SHA: 5962f11fddabeb62610094f8416fcf03bd2032ff
+  Commits: 27
   Recent commits:
+    5962f11 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:25:36Z | fixed
+    f011023 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:22:48Z | Add debug assert to test_given_conflict_input_then_merged_correctly
+    3196465 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:13:10Z | Auto-update branch-info.txt
     d2c641f | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:12:48Z | fixed assert logger.info
-    05f1871 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T17:53:56Z | fixed it
-    6fa3dd1 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T17:37:00Z | fixed it i hope
-    a9b938a | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T17:27:17Z | fixed test_recognizer_result.py
-    b342b35 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T17:15:22Z | Merge branch 'lab7'
+    586654f | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:02:49Z | Auto-update branch-info.txt
 - main
-  SHA: f011023c50eaf26aa92010916bc70b65e754b9ba
-  Commits: 25
+  SHA: 5d6de313fe91c9b09c1a647d556172989a19d199
+  Commits: 26
   Recent commits:
+    5d6de31 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:23:05Z | Auto-update branch-info.txt
     f011023 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:22:48Z | Add debug assert to test_given_conflict_input_then_merged_correctly
     3196465 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:13:10Z | Auto-update branch-info.txt
     586654f | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:02:49Z | Auto-update branch-info.txt
     bb75751 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:02:04Z | Merge branch 'main' of github.com:mpadot/lab7_Mock_Testing
-    bfd1dc9 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:01:17Z | Auto-update branch-info.txt
