@@ -8,20 +8,20 @@ Branches in this repo (with details):
     8d99fff | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T01:53:24Z | Auto-update branch-info.txt
     d36c70f | Author: Miles Padot <155395178+mpadot@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-06T21:53:10-04:00 | Initial commit
 - lab7
-  SHA: 6fa3dd1ad1e71e4360094f7e05d95fa2ced500bd
-  Commits: 11
+  SHA: 05f1871b3d557da9d9a9af32853ce03ad00b6c76
+  Commits: 12
   Recent commits:
+    05f1871 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T17:53:56Z | fixed it
     6fa3dd1 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T17:37:00Z | fixed it i hope
     a9b938a | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T17:27:17Z | fixed test_recognizer_result.py
     b342b35 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T17:15:22Z | Merge branch 'lab7'
     3c27b79 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:14:33Z | Auto-update branch-info.txt
-    548cee5 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T17:14:12Z | fixed test_anonymizer_engine.py
 - main
-  SHA: 5f3db4378bcccd142627ccab9ae738b50f7e2432
-  Commits: 16
+  SHA: 216151292c59ff43c9ffd2401f981d97dcf1deed
+  Commits: 17
   Recent commits:
+    2161512 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:42:15Z | Auto-update branch-info.txt
     5f3db43 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T17:41:48Z | fix recognizer_result issues
     9a0feb3 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T17:37:00Z | fixed it i hope
     88f8dcd | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:37:26Z | Auto-update branch-info.txt
     6979d1e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:32:12Z | Auto-update branch-info.txt
-    51f6b05 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T17:31:28Z | Merge branch 'main' of github.com:mpadot/lab7_Mock_Testing
