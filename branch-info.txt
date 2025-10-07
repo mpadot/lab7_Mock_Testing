@@ -17,11 +17,11 @@ Branches in this repo (with details):
     8d99fff | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T01:53:24Z | Auto-update branch-info.txt
     d36c70f | Author: Miles Padot <155395178+mpadot@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-06T21:53:10-04:00 | Initial commit
 - main
-  SHA: 4601fd0f820bc5992508ca48b3b86d783d25f931
-  Commits: 6
+  SHA: b342b35e34fe197095ca3280108e5e8223c96eaf
+  Commits: 9
   Recent commits:
+    b342b35 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T17:15:22Z | Merge branch 'lab7'
+    3c27b79 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:14:33Z | Auto-update branch-info.txt
+    548cee5 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T17:14:12Z | fixed test_anonymizer_engine.py
     4601fd0 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:07:40Z | Auto-update branch-info.txt
     1098e9a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T16:37:51Z | Auto-update branch-info.txt
-    93b6b03 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T16:36:43Z | finished lab7
-    66a4631 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T01:53:59Z | Auto-update branch-info.txt
-    8d99fff | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T01:53:24Z | Auto-update branch-info.txt
