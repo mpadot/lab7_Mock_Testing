@@ -1,5 +1,14 @@
 Branches in this repo (with details):
 
+- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
+  SHA: b411b2c619cf1cec8c43a1be3e18aaeefa94b579
+  Commits: 34
+  Recent commits:
+    b411b2c | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-01T13:20:50Z | Bump python in /presidio-anonymizer
+    e856566 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:32:58Z | Auto-update branch-info.txt
+    01dd54d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:32:05Z | Auto-update branch-info.txt
+    b708645 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:31:33Z | Merge branch 'lab7'
+    6f4e6f3 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:31:08Z | fixed task 1
 - dependabot/github_actions/actions/checkout-5
   SHA: 35032e64e8dd10cffa27736ed377e61f380d2e2f
   Commits: 3
@@ -17,11 +26,11 @@ Branches in this repo (with details):
     5962f11 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:25:36Z | fixed
     5d6de31 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:23:05Z | Auto-update branch-info.txt
 - main
-  SHA: 01dd54d4fd5d6e3fca7c0789aa9dbffeabf499b3
-  Commits: 32
+  SHA: e85656676d65a37d84f4cf27b5d3b398c5309934
+  Commits: 33
   Recent commits:
+    e856566 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:32:58Z | Auto-update branch-info.txt
     01dd54d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:32:05Z | Auto-update branch-info.txt
     b708645 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:31:33Z | Merge branch 'lab7'
     6f4e6f3 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:31:08Z | fixed task 1
     bea27e3 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:25:59Z | Auto-update branch-info.txt
-    5962f11 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:25:36Z | fixed
