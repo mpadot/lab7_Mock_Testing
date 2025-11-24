@@ -9,13 +9,15 @@ Branches in this repo (with details):
     01dd54d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:32:05Z | Auto-update branch-info.txt
     b708645 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:31:33Z | Merge branch 'lab7'
     6f4e6f3 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:31:08Z | fixed task 1
-- dependabot/github_actions/actions/checkout-5
-  SHA: 35032e64e8dd10cffa27736ed377e61f380d2e2f
-  Commits: 3
+- dependabot/github_actions/actions/checkout-6
+  SHA: 2bf087225ad03f66334a7109d00caff7d537495d
+  Commits: 35
   Recent commits:
-    35032e6 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T01:53:50Z | Bump actions/checkout from 3 to 5
-    8d99fff | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T01:53:24Z | Auto-update branch-info.txt
-    d36c70f | Author: Miles Padot <155395178+mpadot@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-06T21:53:10-04:00 | Initial commit
+    2bf0872 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-24T14:39:37Z | Bump actions/checkout from 3 to 6
+    d77c258 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-01T13:20:57Z | Auto-update branch-info.txt
+    e856566 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:32:58Z | Auto-update branch-info.txt
+    01dd54d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:32:05Z | Auto-update branch-info.txt
+    b708645 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:31:33Z | Merge branch 'lab7'
 - lab7
   SHA: b708645af4f28f457d4880157ee28de01f690a25
   Commits: 31
@@ -26,11 +28,11 @@ Branches in this repo (with details):
     5962f11 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:25:36Z | fixed
     5d6de31 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:23:05Z | Auto-update branch-info.txt
 - main
-  SHA: e85656676d65a37d84f4cf27b5d3b398c5309934
-  Commits: 33
+  SHA: d77c25838418075003eceb3f543213693b77d7df
+  Commits: 34
   Recent commits:
+    d77c258 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-01T13:20:57Z | Auto-update branch-info.txt
     e856566 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:32:58Z | Auto-update branch-info.txt
     01dd54d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:32:05Z | Auto-update branch-info.txt
     b708645 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:31:33Z | Merge branch 'lab7'
     6f4e6f3 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-10-07T18:31:08Z | fixed task 1
-    bea27e3 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:25:59Z | Auto-update branch-info.txt
